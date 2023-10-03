@@ -1,0 +1,68 @@
+/* General */
+
+.debug [class^="col"] {
+    border: 1px dotted black;
+    padding: 1rem;
+}
+
+/* Site header */
+
+.debug .site-header {
+    background: lightblue;
+}
+
+.debug .site-header [class^="col"] {
+    background: orange;
+}
+
+/* Site main */
+
+.debug .site-main [class^="col"] {
+    height: 400px;
+}
+
+/* Site main - Hero */
+
+.debug .hero {
+    background: darkblue;
+}
+
+.debug .hero .col-8 {
+    background: pink;
+}
+
+/* Site main - Features */
+
+.debug .feature .col-7 {
+    background: lightblue;
+}
+
+.debug .feature .col-4 {
+    background: pink;
+}
+
+/* Site main - Features big */
+
+.debug .feature-big .col-12 {
+    background: green;
+}
+
+/* Site footer - Top */
+
+.debug .site-footer__top [class^="col"] {
+    height: 400px;
+}
+
+.debug .site-footer__top .col-4 {
+    background: pink;
+}
+
+.debug .site-footer__top .col-2 {
+    background: lightblue;
+}
+
+/* Site footer - Bottom */
+
+.debug .site-footer__bottom [class^="col"] {
+    background: orange;
+}

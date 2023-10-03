@@ -1,0 +1,50 @@
+/* General */
+
+body {
+    font-family: sans-serif;
+}
+
+/* Site header */
+
+.site-header {
+    padding: 1rem 0;
+}
+
+.site-header__nav {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+/* Site main - Hero */
+
+.hero {
+    padding: 4rem 0;
+}
+
+/* Site main - Features */
+
+.feature {
+    padding: 4rem 0;
+}
+
+/* Site main - Features big */
+
+.feature-big {
+    padding: 4rem 0;
+}
+
+/* Site footer */
+
+.site-footer {
+    padding: 4rem 0;
+    background: #222222;
+}
+
+/* Site footer - Bottom */
+
+.site-footer__bottom {
+    border-top: 1px solid lightgray;
+    margin-top: 3rem;
+    padding-top: 3rem;
+}
